@@ -2,3 +2,5 @@
 Royals never give up!
 
 try to update this file again!
+
+git tracks changes.
